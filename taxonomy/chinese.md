@@ -9,6 +9,7 @@
 - [OurCoders](https://ourcoders.com/tech/show/tech-20260916-001-07/) - 讨论输出格式正确与判断正确的区别。
 - [人人都是产品经理](https://www.woshipm.com/share/6465624.html) - 面向普通读者的产品介绍。
 - [宝玉的中文解读](https://x.com/dotey/status/2100109937237987823) - 从程序中的判断函数解释路由、分类和打分用途。
+- [Jev AI Playground](https://www.jevaiplayground.com/) - 独立的中英文 Jev 学习站，提供工作流案例、成本估算器、标注来源和核实日期的额度信息，以及能力边界说明；与 TypeSafe AI 无关联。
 
 ## 清单与报告
 

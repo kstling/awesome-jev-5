@@ -74,6 +74,7 @@ Jev returns choices, scores, and condition judgments for software to act on. A v
 - [OrcaRouter Chinese introduction](https://www.orcarouter.ai/zh-CN/blog/jev-typesafe-system-one-what-we-know) - An overview of the product and available evidence.
 - [Baoyu’s Chinese explanation](https://x.com/dotey/status/2100109937237987823) - An explanation of Jev’s uses; this is commentary, not an independent benchmark.
 - [jev-report](https://github.com/HackSing/jev-report) - A Chinese report and reproduction materials; repository existence was checked on 2026-09-19, but its results have not been reproduced here.
+- [Jev AI Playground](https://www.jevaiplayground.com/) - An independent Chinese/English learning hub with workflow examples, a cost calculator, source-dated access notes, and guidance on Jev’s limitations; not affiliated with TypeSafe AI.
 
 ## Further reading
 

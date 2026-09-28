@@ -74,6 +74,7 @@ Jev 用于选择选项、打分和判断条件，结果可供程序继续处理�
 - [OrcaRouter 中文介绍](https://www.orcarouter.ai/zh-CN/blog/jev-typesafe-system-one-what-we-know) - 介绍产品与已有公开材料。
 - [宝玉的中文解读](https://x.com/dotey/status/2100109937237987823) - 解释 Jev 的用途，属于第三方解读，不是独立评测。
 - [jev-report](https://github.com/HackSing/jev-report) - 中文报告与复现材料；2026-09-19 已确认仓库存在，本清单未复现其中结果。
+- [Jev AI Playground](https://www.jevaiplayground.com/) - 独立的中英文 Jev 学习站，提供工作流案例、成本估算器、标注来源和核实日期的额度信息，以及能力边界说明；与 TypeSafe AI 无关联。
 
 ## 更多资料
 
